@@ -6,7 +6,7 @@
 
 /* 
  * File:   main.cpp
- * Author: Usuario
+ * Author: Manuel
  *
  * Created on 23 de noviembre de 2016, 12:37
  */
